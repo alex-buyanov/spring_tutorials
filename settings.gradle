@@ -1,0 +1,3 @@
+rootProject.name = 'spring_tutorials'
+include 'building_rest_api'
+include 'payroll_project'
